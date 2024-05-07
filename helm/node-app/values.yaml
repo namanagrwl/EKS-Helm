@@ -1,0 +1,8 @@
+appName: mynodeapp
+
+port: 80
+
+
+image:
+  name: namanagrawal/node-web
+  tag: latest
